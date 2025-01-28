@@ -1,9 +1,6 @@
 ![bark_revival png](https://github.com/user-attachments/assets/bc7b5fd3-456e-43f6-891a-278a5b5044e1)
 
-<center><font color="red">This rep is not fully uploaded. Come back later. _Jan 28 2025</font></center>
-<div align="center">
-<span style="color: red;">This text is in red and centered</span>
-</div>
+*THIS REP IS NOT FULLY UPLOADED. COME BACK LATER. _JAN 28 2025
 
 **Project Title:** Bark Revival
 
