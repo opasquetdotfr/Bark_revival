@@ -12,17 +12,17 @@ Paper to come...
 </div>
 
 **Features:**
-- Experiments with code and audio examples for ICMC 2025 paper
-- Explores application of language models and machine-learning techniques to generate musical voices with personality using autoregressive transformers (Bark model)
-- Generates unique invented language from input text tokens
+- Experiments with code and audio examples for ICMC 2025 paper.
+- Explores application of language models and machine-learning techniques to generate musical voices with personality using autoregressive transformers (Bark model).
+- Generates unique invented language from input text tokens.
 - Composition techniques:
-  - Text-to-sound control: token repetition, windowing, Lempel-Ziv-Welch compression, token clustering from acoustic feature extraction
-  - Recursive generation system for creating interrelated voices
+  - Text-to-sound control: token repetition, windowing, Lempel-Ziv-Welch compression, token clustering from acoustic feature extraction.
+  - Recursive generation system for creating interrelated voices.
 
 **Applications:**
-- Music remixing
-- Theater-Music production
-- Other expressive voices and storytelling forms seamlessly blending text and sound
+- Music remixing.
+- Theater-Music production.
+- Other expressive voices and storytelling forms seamlessly blending text and sound.
 
 **Compatibility:**
 | Operating System | Installer Availability |
