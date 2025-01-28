@@ -1,3 +1,5 @@
+![bark_revival png](https://github.com/user-attachments/assets/bc7b5fd3-456e-43f6-891a-278a5b5044e1)
+
 **Project Title:** Bark Revival
 
 **Description:**
@@ -22,5 +24,5 @@ Paper to come...
 
 **Applications:**
 - Music remixing
-- Theater production
+- Theater-Music production
 - Other expressive voices and storytelling forms seamlessly blending text and sound
