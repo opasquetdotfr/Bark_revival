@@ -1,5 +1,7 @@
 ![bark_revival png](https://github.com/user-attachments/assets/bc7b5fd3-456e-43f6-891a-278a5b5044e1)
 
+<div align="center"><span style="color:red">This rep is not fully uploaded. Come back later. _Jan 28 2025</span></div>
+
 **Project Title:** Bark Revival
 
 **Description:**
