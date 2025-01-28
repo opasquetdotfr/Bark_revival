@@ -1,6 +1,6 @@
 ![bark_revival png](https://github.com/user-attachments/assets/bc7b5fd3-456e-43f6-891a-278a5b5044e1)
 
-*THIS REP IS NOT FULLY UPLOADED. COME BACK LATER. _JAN 28 2025
+******* THIS REP IS NOT FULLY UPLOADED. COME BACK LATER. _JAN 28 2025 *******
 
 **Project Title:** Bark Revival
 
