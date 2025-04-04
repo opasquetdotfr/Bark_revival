@@ -1,7 +1,5 @@
 ![bark_revival png](https://github.com/user-attachments/assets/bc7b5fd3-456e-43f6-891a-278a5b5044e1)
 
-******* THIS REP IS NOT FULLY UPLOADED. COME BACK LATER. _JAN 28 2025 *******
-
 **Project Title:** Bark Revival
 
 **Description:**
@@ -14,7 +12,7 @@ Paper to come...
 </div>
 
 **Features:**
-- Experiments with code and audio examples for ICMC 2025 paper.
+- Experiments with code and audio examples.
 - Explores application of language models and machine-learning techniques to generate musical voices with personality using autoregressive transformers (Bark model).
 - Generates unique invented language from input text tokens.
 - Composition techniques:
