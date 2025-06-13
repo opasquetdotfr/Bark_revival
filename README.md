@@ -8,7 +8,7 @@ An adaptation (creative hack) of Bark TTS ([GitHub](https://github.com/suno-ai/b
 <div align="justify">
 This research explores the application of language models and machine-learning techniques to generate musical voices with personality. By utilizing autoregressive transformers, specifically the Bark model, tokens are generated from input text to produce a unique invented and undefinable language. Composition is being made between text and sound using various control techniques, including tokens repetition and windowing, Lempel-Ziv-Welch compression, and token clustering from acoustic feature extraction, to regulate the output voice's granularity, intelligibility, and meaning. A recursive generation system is also introduced, allowing for the creation of a large series of interrelated voices. The research is used in various artistic applications, including music remixing and theater production. It explores other forms of expressive voices and storytelling seamlessly lying right in the middle between text and sound.
 
-Paper to come...
+<a href="https://www.opasquet.fr/dl/Olivier_Pasquet_Musical_Voice_Synthesis_at_the_Midpoint_2025.pdf"><i>Musical Voice Synthesis at the Midpoint: Where Text Meets Sound</i></a> (en, de, fr, jp)
 </div>
 
 **Features:**
